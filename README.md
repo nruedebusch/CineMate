@@ -1,5 +1,5 @@
 CineMate is a user-friendly web application built with SvelteKit, Tailwind CSS, and The Movie Database API. It allows users to search for movies and discover new ones.
-Features
+ ##Features
 
     Search for movies by entering titles or keywords
     Display popular movies on the home page
@@ -7,7 +7,7 @@ Features
     Ability to add or remove movies from a personal favorites list
     Responsive design for an optimal user experience across different devices
 
-Technologies Used
+ ##Technologies Used
 
     SvelteKit: A modern JavaScript framework for building web applications
     The Movie Database API: A comprehensive database with information about movies, TV shows, and people
